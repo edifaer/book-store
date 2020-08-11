@@ -1,4 +1,11 @@
+# BOOK-STORE
+
+ReactJs/Redux App. Implementation of a simple online bookstore.📚
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## GitHub pages
+[BookStore Link](http://edifaer.github.io/book-store)
 
 ## Available Scripts
 
